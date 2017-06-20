@@ -1,0 +1,33 @@
+2017-06-16 11:02:17.009 (PID: 24951) INFO producer - Configured wait between consecutive PutRecords call in milliseconds: 50
+2017-06-16 11:02:17.389 (PID: 24951) ERROR producer - Error creating stream: InvalidArgumentException: Bucket ARN is invalid: arn:aws:s3:::jmtroy2firehose/*
+2017-06-16 11:21:22.055 (PID: 25001) INFO producer - Configured wait between consecutive PutRecords call in milliseconds: 50
+2017-06-16 11:21:22.382 (PID: 25001) ERROR producer - Error creating stream: InvalidArgumentException: Bucket ARN is invalid: arn:aws:s3:::jmtroy2firehose/*
+2017-06-16 11:24:59.930 (PID: 25009) INFO producer - Configured wait between consecutive PutRecords call in milliseconds: 50
+2017-06-16 11:25:00.322 (PID: 25009) INFO producer - twitter-delivery-stream-test-jmtroy2 stream does not exist. Created a new stream with that name.
+2017-06-16 11:25:00.446 (PID: 25009) INFO producer - Current status of the stream is CREATING.
+2017-06-16 11:25:02.570 (PID: 25009) INFO producer - Current status of the stream is CREATING.
+2017-06-16 11:25:04.693 (PID: 25009) INFO producer - Current status of the stream is CREATING.
+2017-06-16 11:25:06.816 (PID: 25009) INFO producer - Current status of the stream is CREATING.
+2017-06-16 11:25:08.944 (PID: 25009) INFO producer - Current status of the stream is CREATING.
+2017-06-16 11:25:11.065 (PID: 25009) INFO producer - Current status of the stream is CREATING.
+2017-06-16 11:25:13.198 (PID: 25009) INFO producer - Current status of the stream is CREATING.
+2017-06-16 11:25:15.341 (PID: 25009) INFO producer - Current status of the stream is CREATING.
+2017-06-16 11:25:17.474 (PID: 25009) INFO producer - Current status of the stream is CREATING.
+2017-06-16 11:25:19.603 (PID: 25009) INFO producer - Current status of the stream is CREATING.
+2017-06-16 11:25:21.747 (PID: 25009) INFO producer - Current status of the stream is CREATING.
+2017-06-16 11:25:23.875 (PID: 25009) INFO producer - Current status of the stream is CREATING.
+2017-06-16 11:25:26.011 (PID: 25009) INFO producer - Current status of the stream is CREATING.
+2017-06-16 11:25:28.157 (PID: 25009) INFO producer - Current status of the stream is CREATING.
+2017-06-16 11:25:30.289 (PID: 25009) INFO producer - Current status of the stream is CREATING.
+2017-06-16 11:25:32.410 (PID: 25009) INFO producer - Current status of the stream is CREATING.
+2017-06-16 11:25:34.533 (PID: 25009) INFO producer - Current status of the stream is CREATING.
+2017-06-16 11:25:36.662 (PID: 25009) INFO producer - Current status of the stream is ACTIVE.
+2017-06-16 14:09:22.997 (PID: 33997) INFO producer - Configured wait between consecutive PutRecords call in milliseconds: 50
+2017-06-16 14:09:23.196 (PID: 33997) INFO producer - twitter-delivery-stream-test-jmtroy2 stream is already created! Re-using it.
+2017-06-16 14:09:23.329 (PID: 33997) INFO producer - Current status of the stream is ACTIVE.
+2017-06-19 11:00:52.123 (PID: 46147) INFO producer - Configured wait between consecutive PutRecords call in milliseconds: 50
+2017-06-19 11:00:52.355 (PID: 46147) INFO producer - twitter-delivery-stream-test-jmtroy2 stream is already created! Re-using it.
+2017-06-19 11:00:52.485 (PID: 46147) INFO producer - Current status of the stream is ACTIVE.
+2017-06-19 12:53:01.042 (PID: 49405) INFO producer - Configured wait between consecutive PutRecords call in milliseconds: 50
+2017-06-19 12:53:01.236 (PID: 49405) INFO producer - twitter-delivery-stream-test-jmtroy2 stream is already created! Re-using it.
+2017-06-19 12:53:01.369 (PID: 49405) INFO producer - Current status of the stream is ACTIVE.
